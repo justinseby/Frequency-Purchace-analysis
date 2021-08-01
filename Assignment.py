@@ -11,7 +11,6 @@ df = read_excel(file_name, sheet_name = my_sheet)
 
 # In[18]:
 
-
 print(df[['Outlet ID','Brand Name','Sales Value']])
 
 # In[22]:
