@@ -64,7 +64,6 @@ print("Countlist", count)
 print("Salelist", sale)
     
 
-
 # In[69]:
 
 
