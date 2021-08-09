@@ -22,7 +22,6 @@ print(dups)
 
 # In[68]:
 
-
 Sum=0
 count=[]
 for i in range(9):
