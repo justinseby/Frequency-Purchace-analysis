@@ -71,7 +71,6 @@ question=['Outlets purchased once','Outlets purchased 2times','Outlets purchased
 
 # In[74]:
 
-
 import csv
 df1 = pd.DataFrame()
 df1["Details"]=question
